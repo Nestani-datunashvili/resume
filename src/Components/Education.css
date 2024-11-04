@@ -1,0 +1,29 @@
+.education-content {
+  display: flex;
+  gap: 25px;
+  padding-top: 40px;
+}
+
+.education-content span {
+  position: relative;
+}
+
+.education-content span:after {
+  content: "";
+  width: 5px;
+  height: 100px;
+  background-color: #26c17e;
+  position: absolute;
+  top: 30px;
+  left: 50%;
+}
+
+.education-content-text {
+  background-color: #eeeeee;
+  padding: 15px;
+}
+
+.education-content-text h4 {
+  color: #222935;
+  margin-bottom: 5px;
+}

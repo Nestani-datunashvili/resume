@@ -1,0 +1,28 @@
+.feedbacks {
+  margin-top: 50px;
+  position: relative;
+}
+
+.feedbacks h3 {
+  margin-bottom: 40px;
+}
+
+.feedbacks-content {
+  margin-bottom: 40px;
+}
+
+.feedbacks-text {
+  background-color: #eeee;
+  padding: 13.5px 15px;
+  margin-bottom: 20px;
+}
+
+.feedbacks-avatar {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.feedbacks-avatar p span {
+  color: #26c17e;
+}
